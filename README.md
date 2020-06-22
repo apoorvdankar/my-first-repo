@@ -25,6 +25,6 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](apoorv.jpg)
+![This is an image.](~/myrepo/apoorv.jpg)
 
 nano README.md
