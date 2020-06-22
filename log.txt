@@ -1,0 +1,59 @@
+commit 7a1562e0f70e34caa32290b88e907abf2b8d4d27
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 19:21:36 2020 +0530
+
+    gitignore added
+
+commit bd98d1a6aac33707588ca19520d95606ea9cfd03
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 19:07:13 2020 +0530
+
+    llefefefdse
+
+commit a5a8b1cc4daf2576b407ae33e1fc3d49098602ec
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 19:06:50 2020 +0530
+
+    llefefefde
+
+commit 6276ecb56c2d023dddb063ffe2aa99322b169bab
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 19:06:15 2020 +0530
+
+    llefefefe
+
+commit 59cd39974de895ac1c97d11c44fa56327c9d26fc
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 19:05:27 2020 +0530
+
+    with -a
+
+commit ee832367f3a56de4d4fc624b787eae942947476a
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 19:03:29 2020 +0530
+
+    after checkout
+
+commit 247c5207c6a469c5c5cdbe8ce18a9143fc8b631b
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 18:07:31 2020 +0530
+
+    f3 and f4 added new file
+
+commit 3fa3c16e2068a24a3f909f6c0d3eac844c4f81af
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 18:04:20 2020 +0530
+
+    2 new file
+
+commit 727ceb3dd628c3f9e3a86415b941e4f4635853a7
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 18:01:49 2020 +0530
+
+    renamed
+
+commit 4883b83518d26dc8a1165b2c56605daf5fdabbe5
+Author: apoorvdankar <dankarapoorv@gmail.com>
+Date:   Sat Jun 20 17:49:34 2020 +0530
+
+    added readme.txt
